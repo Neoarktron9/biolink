@@ -1,5 +1,4 @@
 # Biolink Animated - Interactive Social Media Profile Card
-
 A modern, animated social media profile card built with React and Vite. Features a sleek design with parallax tilt effects, glowing borders, and smooth animations. Perfect for creating a professional bio link page similar to Linktree or Carrd.
 
 ## 🌟 Features
